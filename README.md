@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Miguel 👋
 
 ### 🚀 Software Engineering Student | Full-Stack Developer | Quantum Enthusiast
 
@@ -7,7 +7,7 @@ I am a passionate Software Engineering student dedicated to building scalable so
 ---
 
 ## 🛠️ Featured Project
-### **[SaaS Name]** 🎓
+### **Academia MEGA tests** 🎓
 A comprehensive **Full-Stack learning platform** designed to [briefly describe the goal, e.g., streamline digital education].
 
 * **Frontend:** [e.g., React.js, Next.js, Tailwind CSS]
