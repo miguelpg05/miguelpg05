@@ -38,8 +38,8 @@ I am deeply invested in **Quantum Computing**, exploring how qubits and quantum 
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=radical)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO]&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelpg05&show_icons=true&theme=radical)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelpg05&layout=compact&theme=radical)
 
 ---
 
@@ -51,6 +51,3 @@ I am deeply invested in **Quantum Computing**, exploring how qubits and quantum 
 *"Classical computing is like a candle; quantum is the lightbulb."* 💡
 
 ---
-
-## GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=miguelpg05&theme=gotham&hide_border=true)](https://git.io/streak-stats)
