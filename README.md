@@ -8,12 +8,12 @@ I am a passionate Software Engineering student dedicated to building scalable so
 
 ## 🛠️ Featured Project
 ### **Academia MEGA tests** 🎓
-A comprehensive **Full-Stack learning platform** designed to [briefly describe the goal, e.g., streamline digital education].
+A comprehensive **Full-Stack learning platform** designed to prove myself at this field.
 
 * **Frontend:** [e.g., React.js, Next.js, Tailwind CSS]
 * **Backend:** [e.g., Node.js, Express, PostgreSQL]
 * **Status:** 🚀 In Production / Functional MVP
-* **Link:** [Insert Link Here]
+* **Link:** MEGATests.com
 
 ---
 
@@ -38,9 +38,7 @@ I am deeply invested in **Quantum Computing**, exploring how qubits and quantum 
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelpg05&show_icons=true&theme=radical)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelpg05&layout=compact&theme=radical)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=miguelpg05&theme=gotham&hide_border=true)](https://git.io/streak-stats)
 ---
 
 ## 📫 Connect with me
